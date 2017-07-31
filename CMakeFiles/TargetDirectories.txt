@@ -1,0 +1,3 @@
+/Users/tarinihardikar/Desktop/Dartmouth/myscf/CMakeFiles/rebuild_cache.dir
+/Users/tarinihardikar/Desktop/Dartmouth/myscf/CMakeFiles/edit_cache.dir
+/Users/tarinihardikar/Desktop/Dartmouth/myscf/CMakeFiles/myscf.dir
